@@ -1,0 +1,12 @@
+The definition of LAMP is:
+
+"L" for Linux, which means an open-source operating system modelled on UNIX(a widely used multiuser operating system)
+
+"A" for Apache, which is the most popular Web server software. It enables a computer to host one or more websites that can be accessed over the Internet using a Web browser.
+
+"M" for Mysql, which is the most popular Web server software. It enables a computer to host one or more websites that can be accessed over the internet using a Web browser.
+
+"P" for PHP, which stands for "Hypertext Preprocessor." It's an HTML-embedded Web scripting language. PHP codes can be inserted into the HTML of a Web page.
+
+The end.
+
