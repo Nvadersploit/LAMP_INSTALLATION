@@ -1,0 +1,8 @@
+# My first sql calling instruction!
+
+mysql>CREATE DATABASE dvwa;
+mysql>USE dvwa;
+mysql>create user vader;
+mysql>insert owner_of_Nvaydersploit
+mysql>exit
+
